@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.chinasxit.com:32/louchacha-dev-1-5-3.ipa</string>
+					<string>http://www.chinasxit.com:32/louchacha-pro-1-5-3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>楼查查</string>
+				<string>楼查查[发布]</string>
 			</dict>
 		</dict>
 	</array>
